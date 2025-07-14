@@ -1,6 +1,6 @@
 # Exploring the coherence of features explanations in the GemmaScope
 
-Mattia Proietti AI Alignment course project (BlueDot Impact) autumn 2024
+Mattia Proietti [AI Alignment course project (BlueDot Impact)] (https://bluedot.org/courses/alignment) autumn 2024
 
 Code for my project for the course on AI safety by BlueDot impact.
 A full write-up of the project can be found as a LessWrong post at [Exploring the coherence of features explanations in the GemmaScope](https://www.lesswrong.com/posts/YEJinznLzNtLfE67m/exploring-the-coherence-of-features-explanations-in-the)
